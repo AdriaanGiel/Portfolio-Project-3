@@ -52,6 +52,11 @@ if(isset($_SESSION['accountid'])){
 
                 $content->newBlock("MELDING");
                 $content->assign("MELDING", "Je bent ingelogd");
+                if($_POST['pageid'] != 4){
+                    $content->assign("PAGE", $_POST['pageid']);
+                }else{
+                    $content->assign("PAGE", 1);
+                }
                 $content->assign("PAGE", $_POST['pageid']);
             }else{
                 $content->newBlock("ERRORS");

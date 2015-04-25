@@ -39,10 +39,10 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="index.php?pageid=">Home</a></li>
-                        <li><a href="#about">About</a></li>
+                        <li><a href="index.php?pageid=13">About</a></li>
                         <li><a href="index.php?pageid=7">Blog</a></li>
                         <li><a href="index.php?pageid=10">Projecten</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="index.php?pageid=14">Contact</a></li>
 
                         <!-- START BLOCK : ADMINMENU -->
                         <li class="dropdown">

@@ -5,6 +5,7 @@
     <!-- START BLOCK : FOOTER -->
     <footer class="footer">
         <div class="container">
+            <hr id="foth">
             <p class="pull-right"><a href="#">Terug naar boven</a></p>
             <p>Adriaan Giel &middot; <a href="https://github.com/AdriaanGiel">Github</a> &middot; <a href="#">About</a></p>
         </div>

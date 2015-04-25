@@ -40,6 +40,7 @@
 
             <div class="form-group">
                 <div class="col-sm-offset-4 col-sm-8">
+                    <input type="hidden" name="pageid" value="1">
                     <button type="submit" class="btn btn-default">Login</button>
                 </div>
             </div>

@@ -230,15 +230,10 @@ if(!isset($_SESSION['accountid'])){
                         // error
                     }
 
-
-
                     // mail sturen
                 }else{
 
                 }
-
-
-
 
             }
 
